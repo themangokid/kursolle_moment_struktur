@@ -1,2 +1,2 @@
-# Kursolle_moment_till_eleverna
+# Kursolle moment till eleverna
 Här finns mappstrukturen för kursolles alla uppgifter.
